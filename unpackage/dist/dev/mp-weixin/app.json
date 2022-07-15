@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/saoma/saoma",
+    "pages/chooseman/index",
+    "pages/index/index",
+    "pages/order-details/details",
+    "pages/my-order/my-order"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

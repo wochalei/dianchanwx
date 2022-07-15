@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "云南耿哥餐饮店",
+  "navigationBarBackgroundColor": "#f7d45f",
+  "usingComponents": {
+    "cart": "./components/shopping-cart",
+    "details": "./components/goods-details"
+  }
+}
